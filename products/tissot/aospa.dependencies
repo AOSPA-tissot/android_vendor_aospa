@@ -1,0 +1,31 @@
+[
+ {
+   "remote": "github",
+   "repository": "AOSPA-tissot/device_xiaomi_msm8953-common-tissot",
+   "target_path": "device/xiaomi/msm8953-common",
+   "branch": "13"
+ },
+ {
+   "remote": "github",
+   "repository": "AOSPA-tissot/vendor_xiaomi_tissot",
+   "target_path": "vendor/xiaomi/tissot",
+   "branch": "13"
+ },
+ { "remote": "github", 
+   "repository": "AOSPA-tissot/vendor_xiaomi_msm8953-common", 
+   "target_path": "vendor/xiaomi/msm8953-common", 
+   "branch": "13"
+ },
+ {
+   "remote": "github",
+   "repository": "AOSPA-tissot/kernel_xiaomi_msm8953",
+   "target_path": "kernel/xiaomi/msm8953",
+   "branch": "NON-OC"
+  },
+ {
+   "remote": "github",
+   "repository": "iusmac/RevampedFMRadio",
+   "target_path": "packages/apps/RevampedFMRadio",
+   "branch": "qcom"
+ }  
+]
